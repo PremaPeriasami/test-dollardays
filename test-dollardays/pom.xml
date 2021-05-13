@@ -3,4 +3,14 @@
   <groupId>test-dollardays</groupId>
   <artifactId>test-dollardays</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+
+	<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+
+
+	<properties>
+		<jdk.version>1.8</jdk.version>
+		<cucumber.version>1.2.4 </cucumber.version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
 </project>
